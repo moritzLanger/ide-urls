@@ -1,0 +1,8 @@
+# Download URLs for tools of devonfw-ide
+
+Tools have a download link, which is often dependent on the operating system and potentially other aspects like architecture.
+This repository (ide-downloads) provides a collection of download URLs for the tools of https://github.com/devonfw/ide/[devonfw-ide].
+It automatically updates itself adding new release versions via github action workflow.
+To create a mirror for a new tool, follow https://github.com/devonfw/ide/blob/master/documentation/devonfw-ide-contribution-getting-started.asciidoc#ide-mirrors[this guide].
+
+Please report issues https://github.com/devonfw/ide/issues[here] as we have closed issues in this repository itself.
