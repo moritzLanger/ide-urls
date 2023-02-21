@@ -1,4 +1,10 @@
 {
   "manual" : false,
-  "urlStatuses" : { }
+  "urlStatuses" : {
+    "-1.441034828E9" : {
+      "success" : {
+        "timestamp" : "2023-02-21T14:49:28.750592Z"
+      }
+    }
+  }
 }
